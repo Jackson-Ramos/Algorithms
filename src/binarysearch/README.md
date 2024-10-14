@@ -56,7 +56,7 @@ public class BinarySearch {
 ```
 
 ## Explicação
-- O método buscaBinaria recebe um array ordenado de qualquer tipo que 
+- O método binarySearch recebe um array ordenado de qualquer tipo que 
 implemente a interface Comparable, permitindo que ele compare elementos.
 - O algoritmo percorre o array até encontrar o elemento desejado ou até que o intervalo de busca se torne inválido.
 Exemplo de uso com Integer e String.
